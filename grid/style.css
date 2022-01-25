@@ -1,0 +1,222 @@
+
+.external{
+    width: 75%;
+    height: 570px;
+    margin: 0% auto;
+ 
+}
+
+.header{
+    margin: 1%;    
+   
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid black;
+    
+   
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+     padding-top: 4%;
+    
+}
+
+
+
+.links{
+    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+a{
+    text-decoration: none;
+    white-space: nowrap;
+    color: hsl(219, 9%, 45%);
+    font-weight: bold;
+    margin-left: 6%;
+
+}
+
+.dp{
+    margin-left: 45%;   
+    display: flex;
+    flex-direction: row;
+    padding-top: 2%;
+}
+
+.cart{
+    margin-top: 15%;
+}
+
+.avat{
+    margin-left: 20%;
+    margin-top: 0%;
+}
+
+.rest{
+    
+    height: 100%;
+    width: 96%;
+    padding: 2%;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 60% 40%;
+    grid-gap: 1rem;
+    margin-top: 5%;
+}
+
+.container-1{
+width: 100%;
+height: 100%;
+
+
+}
+
+.pic-one{
+    border-radius: 1.5rem;
+}
+
+.container-2{
+    width: 63%;
+height: 90%;
+
+grid-column: 2;
+grid-row: 1/3;
+margin-left: 15%;
+
+}
+
+.container-3{
+    width: 100%;
+height: 75%;
+
+
+}
+
+.shoe-two{
+    margin-left: 0;
+    border-radius: 1rem;
+    border: 2px solid hsl(26, 100%, 55%);
+    background-color: white;
+    color: white;
+    
+}
+
+
+.shoe-three{
+    margin-left: 3%;
+    border-radius: 1rem;
+}
+
+.shoe-four{
+    margin-left: 3%;
+    border-radius: 1rem;
+}
+
+.shoe-five{
+    margin-left: 3%;
+    border-radius: 1rem;
+}
+
+.sneak{
+    color: hsl(26, 100%, 55%);
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+p{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+h2{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+}
+
+button{
+    text-align: center;
+}
+
+.description{
+    padding: 8%;
+}
+
+.esc{
+    color: hsl(220, 13%, 13%);
+}
+
+.price{
+    display: flex;
+    flex-direction: row;
+}
+
+.init{
+    font-weight: bolder;
+}
+
+.reduce{
+color: hsl(220, 14%, 75%);
+font-weight: bold;
+text-decoration: line-through;
+margin-top: 0;
+}
+
+.disc{
+    background-color: hsl(25, 100%, 94%);
+    margin-left: 2.5%;
+    margin-top: 6.5%;
+    height: 20px;
+    width: 9%;
+    color: hsl(26, 100%, 55%);
+    font-weight: 900;
+    border-radius: 0.3rem;
+}
+
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    
+}
+
+.button{
+    margin-left: 3%;
+    background-color: hsl(26, 100%, 55%);
+    width: 45%;
+    height: 30px;
+    text-align: center;
+    padding: 1.5%;
+    border-radius: 0.7rem;
+    color: white;
+}
+
+.buy{
+    margin-right: 2%;
+    background-color: hsl(223, 64%, 98%);
+    width: 45%;
+    border-radius: 0.7rem;
+    font-weight: bolder;
+}
+
+.minus{
+    margin-left: 30%;
+    margin-top: 11%;
+    margin-right: 10%;
+}
+
+
+.plus{
+    margin-left: 10%;
+    margin-top: 8%;
+}
+
+.pick{
+    margin-right: 3%;
+    margin-top: 5%;
+}

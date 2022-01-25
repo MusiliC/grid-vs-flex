@@ -1,0 +1,213 @@
+.external {
+  width: 65%;
+  height: 65%;
+   min-width: 400px; 
+  margin: 3% auto;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  height: 10%;
+  border-bottom: 1px solid black;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+}
+
+.description {
+  margin-left: 10%;
+}
+
+
+
+h2 {
+  font-family: "Kumbh Sans", sans-serif;
+  font-weight: 900;
+}
+
+p {
+  font-family: "Kumbh Sans", sans-serif;
+}
+.pic-two {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 5%;
+}
+.disc {
+  background-color: hsl(25, 100%, 94%);
+  margin-left: 2%;
+  margin-top: 5%;
+  height: 20px;
+  width: 9%;
+  color: hsl(26, 100%, 55%);
+  font-weight: 900;
+  border-radius: 0.3rem;
+}
+
+.price {
+  margin-top: 10%;
+  margin-bottom: 0;
+}
+
+.reduce {
+  color: hsl(220, 14%, 75%);
+  font-weight: bold;
+  text-decoration: line-through;
+  margin-top: 0;
+}
+
+.link {
+  margin: 4%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.shoe-two {
+  margin-left: 0;
+  border-radius: 1rem;
+  border: 2px solid hsl(26, 100%, 55%);
+}
+
+.shoe-three {
+  margin-left: 5%;
+  border-radius: 1rem;
+}
+
+.shoe-four {
+  margin-left: 5%;
+  border-radius: 1rem;
+}
+
+.shoe-five {
+  margin-left: 5%;
+  border-radius: 1rem;
+}
+
+.init {
+  font-weight: bolder;
+}
+
+.one {
+  margin-left: 0;
+}
+
+.two {
+  margin-left: 5%;
+}
+
+.three {
+  margin-left: 5%;
+}
+
+.four {
+  margin-left: 5%;
+}
+
+.five {
+  margin-left: 5%;
+}
+
+.logo {
+  margin-left: 5%;
+  margin-top: 8%;
+  margin-right: 8%;
+}
+
+.dp {
+  margin-top: 10px;
+  margin-left: 35%;
+  display: flex;
+  flex-direction: row;
+  width: 15%;
+
+  height: 80%;
+}
+
+.car {
+  margin: 20%;
+
+  padding-top: 0;
+}
+
+.avatar {
+  height: 90%;
+  width: 100%;
+}
+
+.pics {
+  border-radius: 50%;
+}
+
+.rest {
+  margin-top: 10%;
+  display: flex;
+  flex-direction: row;
+}
+
+.main {
+  border-radius: 1rem;
+}
+
+.shoes {
+  margin-left: 2%;
+}
+
+.price {
+  display: flex;
+  flex-direction: row;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  margin-top: 7%;
+}
+
+button {
+  text-align: center;
+}
+.sneak {
+  color: hsl(26, 100%, 55%);
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
+
+.buy {
+  margin-right: 2%;
+  background-color: hsl(223, 64%, 98%);
+  width: 45%;
+  border-radius: 0.7rem;
+  font-weight: bolder;
+}
+
+.button {
+  margin-left: 3%;
+  background-color: hsl(26, 100%, 55%);
+  width: 45%;
+  height: 30px;
+  text-align: center;
+  padding: 1.5%;
+  border-radius: 0.7rem;
+  color: white;
+}
+
+.pick {
+  margin-right: 3%;
+  margin-top: 5%;
+}
+
+.minus {
+  margin-left: 30%;
+  margin-top: 11%;
+  margin-right: 10%;
+}
+
+.plus {
+  margin-left: 10%;
+  margin-top: 8%;
+}
